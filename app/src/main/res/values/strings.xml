@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="path_start">Начальная точка пути</string>
+    <string name="path_end">Конечная точка пути</string>
+
+    <string name="path_message">Кратчайший путь между %s и %s:\n %s</string>
+</resources>
